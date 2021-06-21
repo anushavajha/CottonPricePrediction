@@ -1,4 +1,4 @@
-# CottonPricePrediction
+# Cotton Price Prediction
 
 ### Research Project
 
